@@ -25,16 +25,12 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2335495e.svg?style=for-the-badge&logo=bootstrap&logoColor=%234FC08D) 
-![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699) 
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D) 
-![Cypress](https://img.shields.io/badge/cypress-black.svg?style=for-the-badge&logo=cypress&logoColor=%#17202C)
 <br/>
 
 ### Back End
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=%092E20) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 <br/>
 
